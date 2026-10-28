@@ -1,0 +1,12 @@
+# Pharmacy Management System - Dependencies
+#
+# No external packages are required.
+# The application uses only the Python standard library:
+#   - tkinter   : graphical user interface
+#   - sqlite3   : database engine
+#   - hashlib   : SHA-256 password hashing
+#   - datetime  : timestamps
+#   - os, sys   : filesystem paths
+#
+# On a minimal Kali install, ensure Tkinter is present:
+#   sudo apt update && sudo apt install -y python3-tk
