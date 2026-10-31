@@ -1,6 +1,6 @@
 # Pharmacy Management System
 
-**Author:** Sonam Bambotra  
+**Author:** Sonam Bamotra  
 **Course:** B.Tech in Computer Science & Engineering (Cybersecurity)  
 **Institution:** Model Institute of Engineering & Technology (Autonomous)  
 **Semester:** 7th Semester  
