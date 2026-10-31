@@ -4,7 +4,7 @@
 **Course:** B.Tech in Computer Science & Engineering (Cybersecurity)  
 **Institution:** Model Institute of Engineering & Technology (Autonomous)  
 **Semester:** 7th Semester  
-**Project Type:** Summer School Internship Project (End of 6th Semester)  
+**Project Type:** Summer School Internship Project at TechnoSolutions, Jammu (End of 6th Semester)  
 
 ---
 
